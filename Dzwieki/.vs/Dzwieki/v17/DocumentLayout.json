@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{978D5F10-934B-5C20-506D-A837331774AA}|Dzwieki\\Dzwieki.vcxproj|solutionrelative:Dzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{978D5F10-934B-5C20-506D-A837331774AA}|Dzwieki\\Dzwieki.vcxproj|C:\\Users\\Tymek\\Desktop\\desktop\\Dzwieki\\Dzwieki\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{978D5F10-934B-5C20-506D-A837331774AA}|Dzwieki\\Dzwieki.vcxproj|solutionrelative:Dzwieki\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{978D5F10-934B-5C20-506D-A837331774AA}|Dzwieki\\Dzwieki.vcxproj|C:\\Users\\Tymek\\Desktop\\desktop\\Dzwieki\\Dzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{978D5F10-934B-5C20-506D-A837331774AA}|Dzwieki\\Dzwieki.vcxproj|solutionrelative:Dzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D5F10-934B-5C20-506D-A837331774AA}|Dzwieki\\Dzwieki.vcxproj|C:\\Users\\Tymek\\Desktop\\desktop\\Dzwieki\\Dzwieki\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{978D5F10-934B-5C20-506D-A837331774AA}|Dzwieki\\Dzwieki.vcxproj|solutionrelative:Dzwieki\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,14 @@
               "RelativeDocumentMoniker": "Dzwieki\\MyForm.h",
               "ToolTip": "C:\\Users\\Tymek\\Desktop\\desktop\\Dzwieki\\Dzwieki\\MyForm.h",
               "RelativeToolTip": "Dzwieki\\MyForm.h",
-              "ViewState": "AgIAANsAAAAAAAAAAAAAAPgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAAwAoBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-17T11:48:24.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyForm.cpp",
               "DocumentMoniker": "C:\\Users\\Tymek\\Desktop\\desktop\\Dzwieki\\Dzwieki\\MyForm.cpp",
               "RelativeDocumentMoniker": "Dzwieki\\MyForm.cpp",
@@ -47,12 +47,11 @@
               "RelativeToolTip": "Dzwieki\\MyForm.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T11:33:08.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T11:33:08.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyForm.h [Design]",
               "DocumentMoniker": "C:\\Users\\Tymek\\Desktop\\desktop\\Dzwieki\\Dzwieki\\MyForm.h",
               "RelativeDocumentMoniker": "Dzwieki\\MyForm.h",

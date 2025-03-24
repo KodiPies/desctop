@@ -99,7 +99,7 @@ namespace PaszportDesktop {
 			this->labelImie->Name = L"labelImie";
 			this->labelImie->Size = System::Drawing::Size(39, 20);
 			this->labelImie->TabIndex = 1;
-			this->labelImie->Text = L"Imiê";
+			this->labelImie->Text = L"Imi�";
 			// 
 			// labelNazwisko
 			// 
@@ -227,7 +227,7 @@ namespace PaszportDesktop {
 			this->Controls->Add(this->labelImie);
 			this->Controls->Add(this->labelNumer);
 			this->Name = L"MyForm";
-			this->Text = L"Wprowadzanie danych do paszportu. Wykonal: 00000000000";
+			this->Text = L"Wprowadzanie danych do paszportu. Wykona�: 00000000000";
 			this->groupBoxOczy->ResumeLayout(false);
 			this->groupBoxOczy->PerformLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBoxOsoba))->EndInit();
@@ -238,8 +238,8 @@ namespace PaszportDesktop {
 		}
 #pragma endregion
 	private: System::Void aktualizacja(System::Object^ sender, System::EventArgs^ e) {
-		pictureBoxOsoba->ImageLocation = textBoxNumer->Text + "zdj.png";
-		pictureBoxOdcisk->ImageLocation = textBoxNumer->Text + "obraz2.png";
+		pictureBoxOsoba->ImageLocation = textBoxNumer->Text + "-zdjecie.png";
+		pictureBoxOdcisk->ImageLocation = textBoxNumer->Text + "-odcisk.png";
 	}
 	private: System::Void buttonOk_Click(System::Object^ sender, System::EventArgs^ e) {
 		String^ kolorOczu = nullptr;
@@ -259,11 +259,11 @@ namespace PaszportDesktop {
 					MessageBox::Show(textBoxNumer->Text + " " + textBoxImie->Text + " kolor oczu " + kolorOczu);
 				}
 				else {
-					MessageBox::Show("Wprowadz dane");
+					MessageBox::Show("Wprowad� dane");
 				}
 			}
 			else {
-				MessageBox::Show("Wprowadz dane");
+				MessageBox::Show("Wprowad� dane");
 			}
 		}
 	}

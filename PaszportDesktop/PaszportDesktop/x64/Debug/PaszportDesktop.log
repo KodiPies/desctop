@@ -1,4 +1,10 @@
 ﻿  MyForm.cpp
+C:\Users\Tymek\Desktop\desktop\PaszportDesktop\PaszportDesktop\MyForm.h(262,23): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1250)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\Tymek\Desktop\desktop\PaszportDesktop\PaszportDesktop\MyForm.h(266,22): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1250)
+  (compiling source file 'MyForm.cpp')
+  
 C:\Users\Tymek\Desktop\desktop\PaszportDesktop\PaszportDesktop\MyForm.cpp(4,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
   MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   PaszportDesktop.vcxproj -> C:\Users\Tymek\Desktop\desktop\PaszportDesktop\x64\Debug\PaszportDesktop.exe
