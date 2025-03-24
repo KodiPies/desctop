@@ -297,19 +297,6 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 	haslo = "";
 
 	
-	if (znakiSpecjalne) {
-		
-		int specjalnyIndex = rand->Next(znakiSpecjalneTab[0]->Length);
-		haslo += znakiSpecjalneTab[0][specjalnyIndex];
-		ilosc--; 
-	}
-
-	if (cyfry) {
-		
-		int cyfryIndex = rand->Next(cyfryTab[0]->Length);
-		haslo += cyfryTab[0][cyfryIndex];
-		ilosc--; 
-	}
 
 	
 	for (int i = 0; i < ilosc; i++) {
