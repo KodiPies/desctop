@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1531139-1221-25B6-FE5D-ABED3F4BEE16}|PaszportDesktop\\PaszportDesktop.vcxproj|C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B1531139-1221-25B6-FE5D-ABED3F4BEE16}|PaszportDesktop\\PaszportDesktop.vcxproj|solutionrelative:PaszportDesktop\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1531139-1221-25B6-FE5D-ABED3F4BEE16}|PaszportDesktop\\PaszportDesktop.vcxproj|C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1531139-1221-25B6-FE5D-ABED3F4BEE16}|PaszportDesktop\\PaszportDesktop.vcxproj|solutionrelative:PaszportDesktop\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1531139-1221-25B6-FE5D-ABED3F4BEE16}|PaszportDesktop\\PaszportDesktop.vcxproj|C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1531139-1221-25B6-FE5D-ABED3F4BEE16}|PaszportDesktop\\PaszportDesktop.vcxproj|solutionrelative:PaszportDesktop\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.h",
+              "RelativeDocumentMoniker": "PaszportDesktop\\MyForm.h",
+              "ToolTip": "C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.h [Design]",
+              "RelativeToolTip": "PaszportDesktop\\MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T11:22:50.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.h",
+              "RelativeDocumentMoniker": "PaszportDesktop\\MyForm.h",
+              "ToolTip": "C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.h",
+              "RelativeToolTip": "PaszportDesktop\\MyForm.h",
+              "ViewState": "AgIAANsAAAAAAAAAAAAQwPoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-13T10:48:34.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.cpp",
+              "RelativeDocumentMoniker": "PaszportDesktop\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\Tymek\\Desktop\\desktop\\PaszportDesktop\\PaszportDesktop\\MyForm.cpp",
+              "RelativeToolTip": "PaszportDesktop\\MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T10:43:59.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

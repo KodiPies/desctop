@@ -1,0 +1,3 @@
+C:\Users\Tymek\Desktop\desktop\Paczka\Paczka\x64\Debug\Paczka.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\Desktop\desktop\Paczka\Paczka\x64\Debug\Paczka.MyForm.resources
+C:\Users\Tymek\Desktop\desktop\Paczka\Paczka\x64\Debug\Paczka.vcxproj.GenerateResource.cache

@@ -1,0 +1,3 @@
+C:\Users\Tymek\Desktop\desktop\Dzwieki\Dzwieki\x64\Debug\Dzwieki.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\Desktop\desktop\Dzwieki\Dzwieki\x64\Debug\Dzwieki.MyForm.resources
+C:\Users\Tymek\Desktop\desktop\Dzwieki\Dzwieki\x64\Debug\Dzwieki.vcxproj.GenerateResource.cache

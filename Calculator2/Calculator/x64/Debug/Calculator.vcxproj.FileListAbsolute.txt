@@ -1,0 +1,12 @@
+C:\Users\paste\Desktop\desktopApps\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\paste\Desktop\desktopApps\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\paste\Desktop\desktopApps\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\paste\Desktop\desktopApps\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\paste\Desktop\desktopApps\Calculator2\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\paste\Desktop\desktopApps\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\AdrianPasterka\Desktop\desktopApps-master\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\AdrianPasterka\Desktop\desktopApps-master\Calculator2\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\AdrianPasterka\Desktop\desktopApps-master\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\piotr\Downloads\Calculator2\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\piotr\Downloads\Calculator2\Calculator2\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\piotr\Downloads\Calculator2\Calculator2\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache

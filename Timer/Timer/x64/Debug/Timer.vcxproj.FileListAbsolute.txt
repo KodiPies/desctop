@@ -1,0 +1,3 @@
+C:\Users\Tymek\source\repos\Timer\Timer\x64\Debug\Timer.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\source\repos\Timer\Timer\x64\Debug\Timer.MyForm.resources
+C:\Users\Tymek\source\repos\Timer\Timer\x64\Debug\Timer.vcxproj.GenerateResource.cache

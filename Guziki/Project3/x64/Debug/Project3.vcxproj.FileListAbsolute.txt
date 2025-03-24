@@ -1,0 +1,6 @@
+C:\Users\Tymek\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\source\repos\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\Tymek\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\Tymek\Desktop\desktop\Guziki\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\Desktop\desktop\Guziki\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\Tymek\Desktop\desktop\Guziki\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache

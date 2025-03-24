@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\Tymek\Desktop\desktop\Paczka\Paczka\MyForm.h(292,22): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1250)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\Tymek\Desktop\desktop\Paczka\Paczka\MyForm.h(300,21): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1250)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\Tymek\Desktop\desktop\Paczka\Paczka\MyForm.cpp(4,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Paczka.vcxproj -> C:\Users\Tymek\Desktop\desktop\Paczka\x64\Debug\Paczka.exe

@@ -1,0 +1,9 @@
+C:\Users\Tymek\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\source\repos\Project5\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\Tymek\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\Tymek\Desktop\desktop\Project5\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\Desktop\desktop\Project5\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\Tymek\Desktop\desktop\Project5\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\Tymek\Desktop\desktop\Uczniowie\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\Desktop\desktop\Uczniowie\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\Tymek\Desktop\desktop\Uczniowie\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache

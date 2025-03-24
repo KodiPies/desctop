@@ -1,0 +1,3 @@
+C:\Users\Tymek\Desktop\desktop\ListaRozwijana\ListaRozwijana\x64\Debug\ListaRozwijana.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\Desktop\desktop\ListaRozwijana\ListaRozwijana\x64\Debug\ListaRozwijana.MyForm.resources
+C:\Users\Tymek\Desktop\desktop\ListaRozwijana\ListaRozwijana\x64\Debug\ListaRozwijana.vcxproj.GenerateResource.cache

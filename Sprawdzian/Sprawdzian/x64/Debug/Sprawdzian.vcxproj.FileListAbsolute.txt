@@ -1,0 +1,3 @@
+C:\Users\Tymek\Desktop\desktop\Sprawdzian\Sprawdzian\x64\Debug\Sprawdzian.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\Desktop\desktop\Sprawdzian\Sprawdzian\x64\Debug\Sprawdzian.MyForm.resources
+C:\Users\Tymek\Desktop\desktop\Sprawdzian\Sprawdzian\x64\Debug\Sprawdzian.vcxproj.GenerateResource.cache

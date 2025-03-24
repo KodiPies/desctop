@@ -1,0 +1,3 @@
+C:\Users\Tymek\Desktop\desktop\GeneratorHasla\GeneratorHasla\x64\Debug\GeneratorHasla.vcxproj.AssemblyReference.cache
+C:\Users\Tymek\Desktop\desktop\GeneratorHasla\GeneratorHasla\x64\Debug\GeneratorHasla.MyForm.resources
+C:\Users\Tymek\Desktop\desktop\GeneratorHasla\GeneratorHasla\x64\Debug\GeneratorHasla.vcxproj.GenerateResource.cache
